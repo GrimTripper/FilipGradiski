@@ -1,12 +1,9 @@
 title: Filip Gradiški # your name (or website title) here
 logo: "/images/a5jLWblB_700wp_0.webp" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <b> Personal info </b>
-  <br>
-  Date of birth: 14.12.1991.
-  <br>
-  email: fgradiski@gmail.com
-  <br>
+  <b> Personal info </b> <br>
+  Date of birth: 14.12.1991. <br>
+  email: fgradiski@gmail.com <br>
   Phone number: +385977235116
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
