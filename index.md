@@ -5,7 +5,7 @@
 ### Projects i worked on 
 
 [Piratiska Riba](https://krugisa.itch.io/piratiska-riba)
-<img src="U3roC2.png"/>
+<img src="images/U3roC2.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
