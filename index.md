@@ -9,7 +9,7 @@
 
 <p style="font-size:11px"> Piratiska Riba is an atmospheric VR puzzle game. There are two Islands : Sad Palm Island and MugiPugi Island.  Each beautiful Island has various puzzles and tasks which you need to solve to collect treasure . This beautiful VR game offers you unlimited fun in a VR pirate world.</p>
 ---
-[Pathfinder](/pdf/sample_presentation.pdf)
+[Pathfinder](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
