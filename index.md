@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects i worked on 
 
-[Projects i worked on](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Piratiska Riba](https://krugisa.itch.io/piratiska-riba)
+<img src="U3roC2.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
