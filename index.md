@@ -11,7 +11,7 @@
 
 ---
 [Pathfinder](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/unnamed.webp"/>
 
 <p style="font-size:11px"> Pathfinder is a mobile free-to-play offline board game made for 2 players. Both players draw a path that other player has to find by rolling the dice and trying to guess the path opponent has chosen.</p>
 
