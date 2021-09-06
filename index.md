@@ -23,7 +23,7 @@
 
 
 ---
-[Završni](http://example.com/)
+[Freak of Nature](http://example.com/)
 <img src="images/freakofnature.jpg"/>
 
 <p style="font-size:11px"> "Freak of Nature" is a PvE, FP, horror game set in a hostile and mutated organic environment. You have to explore and use scarce items and weapons at your disposal to survive and complete tasks.</p>
