@@ -20,9 +20,13 @@
 [GlitchBob](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+
+
 ---
 [Završni](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/freakofnature.jpg"/>
+
+<p style="font-size:11px"> "Freak of Nature" is a PvE, FP, horror game set in a hostile and mutated organic environment. You have to explore and use scarce items and weapons at your disposal to survive and complete tasks.</p>
 
 ---
 [Bolnica](http://example.com/)
