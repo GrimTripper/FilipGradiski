@@ -22,8 +22,5 @@
 <p style="font-size:12px"> "Freak of Nature" is a PvE, FP, horror game set in a hostile and mutated organic environment. You have to explore and use scarce items and weapons at your disposal to survive and complete tasks.</p>
 
 ---
-[Bolnica](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
