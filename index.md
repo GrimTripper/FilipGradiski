@@ -16,12 +16,6 @@
 <p style="font-size:12px"> Pathfinder is a mobile free-to-play offline board game made for 2 players. Both players draw a path that other player has to find by rolling the dice and trying to guess the path opponent has chosen.</p>
 
 ---
-[GlitchBob](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
-
----
 [Freak of Nature](https://blenity.itch.io/freak-of-nature)
 <img src="images/freakofnature.jpg"/>
 
