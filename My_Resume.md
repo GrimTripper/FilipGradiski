@@ -1,10 +1,10 @@
 ## My previous work
 March, 2013 - May, 2013
-<b>
+<br>
 Video editor/VTV televizija, Varazndin, Croatia
-</b>
+</br>
 
 October, 2017 - November, 2018 and February, 2020 - December, 2020
-<b>
+<br>
 Prepress tehnician/Birotehnik d.o.o., Oroslavje, Croatia
-</b>
+</br>
