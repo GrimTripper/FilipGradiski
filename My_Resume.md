@@ -20,4 +20,6 @@ CNC machine Operator/Oroslavje High School, Oroslavje, Croatia
 March, 2021 - August, 2021 <br>
 Unity engine game developer and level designer/Regional Development Agency SIMORA, Novska, Croatia
 
+## Skills
+
 
