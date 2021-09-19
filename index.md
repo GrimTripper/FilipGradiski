@@ -19,7 +19,7 @@
 [Freak of Nature](https://blenity.itch.io/freak-of-nature)
 <img src="images/freakofnature.jpg"/>
 
-<p style="font-size:12px"> "Freak of Nature" is a PvE, FP, horror game set in a hostile and mutated organic environment. You have to explore and use scarce items and weapons at your disposal to survive and complete tasks.</p>
+<p style="font-size:12px"> Freak of Nature is a PvE, FP, horror game set in a hostile and mutated organic environment. You have to explore and use scarce items and weapons at your disposal to survive and complete tasks.</p>
 
 ---
 
