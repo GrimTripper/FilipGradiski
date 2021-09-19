@@ -1,4 +1,4 @@
-## My previous work
+## Some of my previous jobs
 March, 2013 - May, 2013 <br>
 Video editor/VTV televizija, Varazdin, Croatia
 
@@ -20,6 +20,35 @@ CNC machine Operator/Oroslavje High School, Oroslavje, Croatia
 March, 2021 - August, 2021 <br>
 Unity engine game developer and level designer/Regional Development Agency SIMORA, Novska, Croatia
 
+---
+
 ## Skills
+<b> Programming </b> <br>
+- C# &#9733; &#9733; &#9733; &#9733; 
+- HTML &#9733; &#9733; &#9733; 
 
+<br>
 
+<b> Game engines </b> <br>
+- Unity  &#9733;  &#9733;  &#9733;  &#9733; 
+
+<br>
+
+<b> Modeling and animations </b> <br>
+- Sweet Home 3D &#9733; &#9733; &#9733;
+- Mixamo &#9733; &#9733; &#9733; &#9733;
+- Make Human &#9733; &#9733;
+
+<br>
+
+<b> Other softwares </b> <br>
+- Microsoft Office ((Word, Excel, PowePoint) &#9733; &#9733; &#9733; &#9733; 
+- Adobe Creative Cloud Apps (Adobe Illustrator, Photshop, InDesign, Premiere)  &#9733;  &#9733;  &#9733;  &#9733; 
+- AutoCad &#9733; 
+
+<br>
+
+<b> Other skills </b> <br>
+- Driving licence: B category
+- Languages: Croatian and English
+- Musician Gitarist
