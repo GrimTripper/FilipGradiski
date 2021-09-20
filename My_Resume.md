@@ -27,26 +27,22 @@ Unity engine game developer and level designer/Regional Development Agency SIMOR
 - C# &#9733; &#9733; &#9733; &#9733; 
 - HTML &#9733; &#9733; &#9733; 
 
-<br>
 
 <b> Game engines </b> <br>
 - Unity  &#9733;  &#9733;  &#9733;  &#9733; 
 
-<br>
 
 <b> Modeling and animations </b> <br>
 - Sweet Home 3D &#9733; &#9733; &#9733;
 - Mixamo &#9733; &#9733; &#9733; &#9733;
 - Make Human &#9733; &#9733;
 
-<br>
 
 <b> Other softwares </b> <br>
 - Microsoft Office ((Word, Excel, PowePoint) &#9733; &#9733; &#9733; &#9733; 
 - Adobe Creative Cloud Apps (Adobe Illustrator, Photshop, InDesign, Premiere)  &#9733;  &#9733;  &#9733;  &#9733; 
 - AutoCad &#9733; 
 
-<br>
 
 <b> Other skills </b> <br>
 - Driving licence: B category
